@@ -1745,7 +1745,7 @@
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Construction",
-		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+15]% Strength <in [Medieval era]>", "[+150]% Strength <in [Modern era]>", "[+175]% Strength <in [Future era]
+		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+15]% Strength <in [Medieval era]>", "[+150]% Strength <in [Modern era]>"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 		}
