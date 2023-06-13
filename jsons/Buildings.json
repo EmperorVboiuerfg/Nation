@@ -66,6 +66,8 @@
 		"[+15]% [growth] [in all cities]"],
 		"requiredTech": "Pottery"
     "uniqueTo": "Free City of Estrein",
+	},
+	{
 		"name": "Shrine",
 		"faith": 1,
 		"cost": 40,
