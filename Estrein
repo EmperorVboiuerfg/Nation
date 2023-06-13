@@ -1,0 +1,28 @@
+//nations
+		"name": "Free City of Estrein",
+		"leaderName": "The Council",
+		"adjective": ["Estreinian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The Council has decided you are not worthy of sharing this world with us.",
+		"attacked": "Well this is disappointing",
+		"defeated": "We did not lose, we merely failed to win!",
+		"introduction": "Keep silent!",
+
+		"neutralHello": "Who are you?",
+		"hateHello": "We're going to behead every diplomat you send to us",
+
+		"tradeRequest": "We want this, what do you want?",
+
+		"outerColor": [146,43,33],
+		"innerColor": [220,118,51],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Estrenian Isolationism",
+		"uniques": ["[+200]% growth [in all cities] <when not at war>", "[Cannot build [Settler] units"],"[+15]% Strength <for [All] units> <in friendly territory>
+		"cities": ["Estrein"],
+        "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
+	},
