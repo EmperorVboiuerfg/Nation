@@ -58,12 +58,12 @@
 	{
 		"name": "Preservation Chambers",
 		"food": 3,
-                "growth": +15%,
 		"maintenance": 5,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"[+15]% growth [in all cities]"]
 		"requiredTech": "Pottery"
     "uniqueTo": "Free City of Estrein",
 		"name": "Shrine",
