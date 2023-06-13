@@ -1,6 +1,6 @@
 "name": "Estrenian Guardsmen",
 		"unitType": "Sword",
-		"uniqueTo": "Estrein",
+		"uniqueTo": "Free City of Estrein",
 		"replaces": "Spearman",
 		"movement": 5,
 		"strength": 14,
