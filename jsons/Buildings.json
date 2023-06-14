@@ -57,13 +57,13 @@
 	},
 	{
 		"name": "Preservation Chambers",
-		"food": 3,
-		"maintenance": 5,
-		"hurryCostModifier": 25,
+		"food": 5,
+		"maintenance": 10,
+		"hurryCostModifier": 50,
+		"cityStrength": 5,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"[+15]% [growth] [in all cities]"],
 		"requiredTech": "Pottery"
     "uniqueTo": "Free City of Estrein",
 	},
