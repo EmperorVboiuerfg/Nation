@@ -12,7 +12,7 @@
 		"leaderName": "The Council",
 		"adjective": ["Estreinian"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -31,7 +31,7 @@
 		"innerColor": [220,118,51],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Estrenian Isolationism",
-		"uniques": ["[+200]% growth [in all cities] <when not at war>", "[Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "[May not annex cities"],
+		"uniques": ["[+200]% growth [in capital city] <when not at war>", "Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "May not annex cities"],
 		"cities": ["Estrein"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	},
