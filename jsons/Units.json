@@ -1743,9 +1743,9 @@
 		"replaces": "Rifleman",
 		"movement": 1,
 		"strength": 45,
-		"cost": 120,
-		"requiredTech": "Construction",
-		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+50]% Strength <in [Medieval era]>", "[+200]% Strength <in [Modern era]>"]
+		"cost": 600,
+		"requiredTech": "Architecture",
+		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+100]% Strength <in [Industrial era]>", "[+275]% Strength <in Information era]>"]
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 		}
