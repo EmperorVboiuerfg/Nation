@@ -18,9 +18,9 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "The Council has decided you are not worthy of sharing this world with us.",
-		"attacked": "Well this is disappointing",
+		"attacked": "You WHAT?",
 		"defeated": "We did not lose, we merely failed to win!",
-		"introduction": "Keep silent!",
+		"introduction": "Leave us to our things and we'll leave you alone.",
 
 		"neutralHello": "Who are you?",
 		"hateHello": "We're going to behead every diplomat you send to us",
@@ -30,8 +30,8 @@
 		"outerColor": [146,43,33],
 		"innerColor": [220,118,51],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Estrenian Isolationism",
-		"uniques": ["[+200]% growth [in capital city] <when not at war>", "Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "May not annex cities"],
+		"uniqueName": "Anti-Expansionism",
+		"uniques": ["[+200]% growth [in all city] <when not at war>", "Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "May not annex cities"],
 		"cities": ["Estrein"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	},
