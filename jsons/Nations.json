@@ -33,8 +33,9 @@
 		"uniqueName": "Estrenian Isolationism",
 		"uniques": ["[+200]% growth [in all cities] <when not at war>", "[Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "[May not annex cities"],
 		"cities": ["Estrein"],
-        "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
+        "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	},
+	{
 		"name": "Babylon",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
