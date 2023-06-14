@@ -59,7 +59,6 @@
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
 	// Column 1
-	},
 	{
 		"name": "Granary",
 		"food": 2,
