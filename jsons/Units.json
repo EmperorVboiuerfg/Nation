@@ -1737,16 +1737,16 @@
 		// costs 1500 in BNW
 	},
 	{
-               "name": "Estrenian Guardsmen",
-		"unitType": "Sword",
+               "name": "Estrenian Sentries",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Free City of Estrein",
-		"replaces": "Spearman",
-		"movement": 5,
-		"strength": 14,
-		"cost": 75,
+		"replaces": "Rifleman",
+		"movement": 1,
+		"strength": 45,
+		"cost": 120,
 		"requiredTech": "Construction",
-		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+15]% Strength <in [Medieval era]>", "[+150]% Strength <in [Modern era]>"]
+		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+50]% Strength <in [Medieval era]>", "[+200]% Strength <in [Modern era]>"]
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"attackSound": "shot"
 		}
 ]
