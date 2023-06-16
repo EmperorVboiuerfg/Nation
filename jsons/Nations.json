@@ -31,7 +31,7 @@
 		"innerColor": [220,118,51],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Anti-Expansionism",
-		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>", "May not annex cities"],
+		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Cannot build [Settler] units","[+15]% Strength <for [All] units> <in friendly territory>",],
 		"cities": ["Estrein"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	},
