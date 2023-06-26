@@ -9,10 +9,10 @@
 		"uniqueTo": "Free City of Estrein",
 		"replaces": "Rifleman",
 		"movement": 1,
-		"strength": 45,
+		"strength": 50,
 		"cost": 600,
 		"requiredTech": "Architecture",
-		"uniques": ["Can build [Fort] improvements on tiles", "[+50]% Strength <in [friendly territory]>", "[+100]% Strength <in [Industrial era]>", "[+275]% Strength <in Information era]>"]
+		"uniques": ["Can build [Fort] improvements on tiles", "[+25]% Strength <after discovering [Rifling]>","[+50]% Strength <after discovering [Replaceable Parts]>","[+60]% Strength <after discovering [Plastics]>","[+200]% Strength <after discovering [Mobile Tactics]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 		}
