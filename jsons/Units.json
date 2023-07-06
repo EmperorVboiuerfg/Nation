@@ -26,5 +26,6 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["Cyber","Consumes [2] [Uranium]","[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Fighter] units>"],
 		"attackSound": "jetgun"
+	}
 			
 ]
