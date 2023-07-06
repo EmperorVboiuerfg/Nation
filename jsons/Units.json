@@ -15,17 +15,17 @@
 	{
 		"name": "Aeternus Monitor",
 		"unitType": "Fighter",
-		"replaces": "Jet Fighter",
+		"replaces": "Fighter",
 		"movement": 1,
 		"strength": 90,
 		"rangedStrength": 155,
-		"range": 5,
+		"range": 6,
 		"interceptRange": 15,
 		"cost": 725,
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Aluminum",
-		"uniques": ["Cyber","Consumes [2] [Uranium]","[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Fighter] units>"],
-		"attackSound": "jetgun"
+		"uniques": ["Consumes [2] [Uranium]","[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Fighter] units>"],
+		"attackSound": "shot"
 	}
 			
 ]
