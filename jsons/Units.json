@@ -1,19 +1,30 @@
 [
-
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
-
-	/* Ancient Era */
 	{
-               "name": "Estrenian Sentries",
+               "name": "Aeterna Praesidia",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Free City of Estrein",
+		"uniqueTo": "Aeternum Civitas",
 		"replaces": "Rifleman",
 		"movement": 1,
-		"strength": 50,
+		"strength": 45,
 		"cost": 600,
-		"requiredTech": "Architecture",
+		"requiredTech": "Rifling",
 		"uniques": ["Can build [Fort] improvements on tiles", "[+25]% Strength <after discovering [Rifling]>","[+50]% Strength <after discovering [Replaceable Parts]>","[+60]% Strength <after discovering [Plastics]>","[+200]% Strength <after discovering [Mobile Tactics]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-		}
+		},
+	{
+		"name": "Aeternus Monitor",
+		"unitType": "Fighter",
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 90,
+		"rangedStrength": 155,
+		"range": 5,
+		"interceptRange": 15,
+		"cost": 725,
+		"requiredTech": "Mobile Tactics",
+		"requiredResource": "Aluminum",
+		"uniques": ["Cyber","Consumes [2] [Uranium]","[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Fighter] units>"],
+		"attackSound": "jetgun"
+			
 ]
