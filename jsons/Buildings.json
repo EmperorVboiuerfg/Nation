@@ -1,34 +1,30 @@
-		[
-	// Ancient Era
-
-	// Always available
+[
 	{
-		"name": "Estrenian Fortress",
+		"name": "Aeternum Civitas",
 		"replaces": "Palace",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 5,
-		"cityStrength": 10,
+		"cityStrength": 15,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
-    "uniqueTo": "Free City of Estrein",
+    "uniqueTo": "Aeternum Civitas",
 	},
 	{
-		"name": "Megastructure Project",
+		"name": "The Bastion",
 		"cost": 5000,
 		"culture": 10,
 		"food": 5,
 		"production": 7,
+		"cityStrength": 35,
 		"isNationalWonder": true,
 		"percentStatBonus": {"culture": 50},
 		"uniques": ["Requires a [Preservation Chambers] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
-		"quote": "'At long last, the greatest project the world has ever seen is complete. A gargantuan, concrete mountain of a building, The Megastructure is expected to house many thousands of people as well as provide stations to allow said people to work for the great nation.'"
 		"requiredTech": "Plastics"
-		"uniqueTo": "Free City of Estrein",
+		"uniqueTo": "Aeternum Civitas",
 	},
-	// Column 1
 	{
 		"name": "Preservation Chambers",
 		"food": 5,
@@ -39,6 +35,15 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-    "uniqueTo": "Free City of Estrein",
+    "uniqueTo": "Aeternum Civitas",
+	},
+	{
+		"name": "Strongholds",
+		"production": 2,
+		"maintenance": 15,
+		"hurryCostModifier": 50,
+		"cityHealth": 60,
+		"cityStrength": 30,
+		"uniqueTo": "Aeternum Civitas",
 	}
 ]
