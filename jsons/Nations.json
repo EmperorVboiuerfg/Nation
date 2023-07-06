@@ -31,7 +31,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Aeternum Civitas",
-		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Aeternum Civitas"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
