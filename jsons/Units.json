@@ -16,6 +16,7 @@
 		"name": "Aeternus Monitor",
 		"unitType": "Fighter",
 		"replaces": "Fighter",
+		"uniqueTo": "Aeternum Civitas",
 		"movement": 1,
 		"strength": 90,
 		"rangedStrength": 155,
