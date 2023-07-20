@@ -7,6 +7,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 30,
+		"promotions": ["[Hivemind] ability"],
 		"attackSound": "nonmetalhit"
 		},
 	{
@@ -18,6 +19,7 @@
 		"strength": 16,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
+		"promotions": ["[Hivemind] ability"],
 		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+10]% Strength <after discovering [Rifling]>","[+30]% Strength <after discovering [Replaceable Parts]>","[+60]% Strength <after discovering [Plastics]>","[+100]% Strength <after discovering [Mobile Tactics]>","[+1] Movement <after discovering [Mobile Tactics]>"],
 		"attackSound": "metalhit"
 	       },
@@ -31,6 +33,7 @@
 		"cost": 600,
 		"requiredResource": "Oil",
 		"requiredTech": "Radar",
+		"promotions": ["[Hivemind] ability"],
 		"attackSound": "bombing"
 		},
 	{
@@ -44,6 +47,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","[+50]% Strength <vs [Land] units>",]
+		"promotions": ["[Hivemind] ability"],
 		"attackSound": "metalhit"
 		},
 	{
@@ -57,6 +61,7 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking","[+55]% Strength <when fighting in [Friendly Land] tiles>","Limited to [1] per Civilization"]
+		"promotions": ["[Hivemind] ability"],
 		"attackSound": "gdrAttack"
 		},
 			
