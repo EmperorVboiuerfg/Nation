@@ -1,32 +1,17 @@
 [
 	{
-		"name": "Aeternum Civitas",
-		"replaces": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 5,
-		"cityStrength": 15,
-		"cost": 1,
-		"uniques": ["Indicates the capital city"]
-    "uniqueTo": "Aeternum Civitas",
-	},
-	{
-		"name": "The Bastion",
-		"cost": 5000,
-		"culture": 10,
-		"food": 5,
-		"production": 7,
+		"name": "The Hivemind",
+		"cost": 0,
+		"food": 7,
+		"production": 10,
 		"cityStrength": 35,
 		"isNationalWonder": true,
-		"percentStatBonus": {"culture": 50},
-		"uniques": ["Requires a [Preservation Chambers] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
-		"requiredTech": "Plastics"
-		"uniqueTo": "Aeternum Civitas",
+		"percentStatBonus": {"food": 50},
+		"uniques": ["Requires a [Breeding Chambers] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
+		"uniqueTo": "The Hive",
 	},
 	{
-		"name": "Preservation Chambers",
+		"name": "Breeding Chambers",
 		"food": 5,
 		"maintenance": 10,
 		"hurryCostModifier": 50,
@@ -35,15 +20,16 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-    "uniqueTo": "Aeternum Civitas",
+    "uniqueTo": "The Hive",
 	},
 	{
-		"name": "Strongholds",
-		"production": 2,
+		"name": "Defensive Nodes",
+		"production": 3,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
 		"cityHealth": 60,
 		"cityStrength": 30,
-		"uniqueTo": "Aeternum Civitas",
+		"requiredTech": "Plastics",
+		"uniqueTo": "The Hive",
 	}
 ]
