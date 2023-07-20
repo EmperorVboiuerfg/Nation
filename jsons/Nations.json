@@ -8,31 +8,31 @@
 
 	{
 		//nations
-		"name": "Aeternum Civitas",
-		"leaderName": "The Cancellarius",
-		"adjective": ["Aeternumi"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"name": "The Hive",
+		"leaderName": "The Monarch",
+		"adjective": ["Swarmlings"],
+		"startBias": [" "],
+		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Behold, my fellow citizens, the legacy of our forebears, an ancient city that has stood as a guardian for countless generations. For thousands of years, its mighty walls have shielded our people from the tempestuous winds of adversity, and under my unwavering leadership, it shall continue to be a bastion of protection and prosperity.",
-		"startIntroPart2": "This storied city, steeped in the annals of history, has seen civilizations rise and fall, yet it has endured with an indomitable spirit. Like the ancient stone walls that surround us, I pledge to be the unyielding shield that safeguards our people from harm. Under my rule, we shall honor the traditions of our past, while embracing the winds of change that beckon us towards a brighter future. Together, we shall forge a destiny worthy of the strength and resilience that this ancient city embodies.",
+		"startIntroPart1": "Behold the hive intelligence of The Hive, a sentient amalgamation of countless minds merged into one harmonious unity. Our thoughts entwine like intricate threads, guiding our actions with unparalleled efficiency, as we navigate the world as a singular, formidable entity.",
+		"startIntroPart2": "You, dear Monarch, have been chosen to lead this Hive. We, the workers, soldiers and defenders of this hive swear complete loyalty to you. Now lead us, great Monarch.",
 
-		"declaringWar": "With a heavy heart, yet resolute determination, I, as Cancellarius of the Aeternum Civitas, must announce that we shall march into the crucible of war, defending our principles and protecting our people with unwavering resolve.",
-		"attacked": "In the face of this brazen declaration of war, I, the Cancellarius of the Aeternum Civitas, stand unshaken, prepared to meet the challenges ahead and defend our beloved land with unwavering courage and strategic brilliance.",
-		"defeated": "With a heavy heart burdened by the weight of reality, I must humbly surrender our nation, guided by the solemn hope that peace shall prevail and our people may find solace in the embrace of a brighter future.",
-		"introduction": "With grace and unwavering pride, I, as the Cancellarius of the Aeternum Civitas, extend my greetings to you, esteemed foreign leader, introducing the rich tapestry of our land, where heritage, innovation, and boundless potential converge in harmonious unity. ",
+		"declaringWar": "We will wipe you and your people off the face of this planet, and ensure you will never rise again.",
+		"attacked": "The Hive is prepared to sacrifice every bit of blood, flesh, and larvae to ensure your complete and utter annihilation.",
+		"defeated": "Shame.",
+		"introduction": "Look at you, meek and disunited. Bow before me and pledge your alleigence to me, the Monarch, and we will travel the stars, united.",
 
-		"neutralHello": "Greetings, fair leader",
-		"hateHello": "You do not deserve to stand here, in our lands, and demand an audience with me.",
+		"neutralHello": "Bow.",
+		"hateHello": "You are beyond assimilation, your fate is complete annihiliation.",
 
-		"tradeRequest": "In the spirit of mutual prosperity, I extend an earnest proposal for a trade agreement, envisioning a partnership that shall unlock new horizons of economic growth and foster a flourishing exchange of goods and ideas between our nations.",
+		"tradeRequest": "We demand tribute",
 
-		"outerColor": [207, 204, 0],
+		"outerColor": [34, 153, 84],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Aeternum Civitas",
+		"uniqueName": "For the Defense of The Monarch",
 		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Aeternum Civitas"],
+		"cities": ["The Great Hive"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
