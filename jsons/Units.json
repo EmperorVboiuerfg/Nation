@@ -7,6 +7,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 30,
+		"uniques": ["[+100]% Strength <after discovering [Rifling]>","[+300]% Strength <after discovering [Replaceable Parts]>"],
 		"promotions": ["[Hivemind] ability"],
 		"attackSound": "nonmetalhit"
 		},
@@ -76,6 +77,19 @@
 		"uniques": ["Can move after attacking","[+55]% Strength <when fighting in [Friendly Land] tiles>","Limited to [1] per Civilization"]
 		"promotions": ["[Hivemind] ability"],
 		"attackSound": "gdrAttack"
+		},
+	{
+               "name": "Necrophage",
+		"unitType": "Melee Water",
+		"uniqueTo": "The Hive",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 25,
+		"cost": 70,
+		"requiredTech": "Sailing",
+		"uniques": ["Can move after attacking","[+25]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+10]% Strength <after discovering [Optics]>","[+40]% Strength <after discovering [Compass]>","[+60]% Strength <after discovering [Astronomy]>","[+100]% Strength <after discovering [Navigation]>","[+1] Movement <after discovering [Mobile Tactics]>""]
+		"promotions": ["[Hivemind] ability"],
+		"attackSound": "nonmetalhit"
 		},
 			
 ]
