@@ -8,31 +8,31 @@
 
 	{
 		//nations
-		"name": "The Hive",
-		"leaderName": "The Monarch",
-		"adjective": ["Swarmlings"],
-		"startBias": [" "],
-		"preferredVictoryType": "Domination",
+		"name": "Verdua",
+		"leaderName": "High Chancellor",
+		"adjective": ["Verduin"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomacy",
 
-		"startIntroPart1": "Behold the hive intelligence of The Hive, a sentient amalgamation of countless minds merged into one harmonious unity. Our thoughts entwine like intricate threads, guiding our actions with unparalleled efficiency, as we navigate the world as a singular, formidable entity.",
-		"startIntroPart2": "You, dear Monarch, have been chosen to lead this Hive. We, the workers, soldiers and defenders of this hive swear complete loyalty to you. Now lead us, great Monarch.",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 
-		"declaringWar": "We will wipe you and your people off the face of this planet, and ensure you will never rise again.",
-		"attacked": "The Hive is prepared to sacrifice every bit of blood, flesh, and larvae to ensure your complete and utter annihilation.",
+		"declaringWar": "Your aggressive actions will not be forgiven.",
+		"attacked": "I, leader of Verdua am tasked with the defense of our people. I will not shy away from such responsibilities.",
 		"defeated": "Shame.",
-		"introduction": "Look at you, meek and disunited. Bow before me and pledge your alleigence to me, the Monarch, and we will travel the stars, united.",
+		"introduction": "Greetings stranger, this is Verdua, a haven for the tired, the poor and the hungry.",
 
-		"neutralHello": "Bow.",
-		"hateHello": "You are beyond assimilation, your fate is complete annihiliation.",
+		"neutralHello": "Greetings",
+		"hateHello": "You insult our people by standing in our embassy, what do you want?",
 
-		"tradeRequest": "We demand tribute",
+		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
 		"outerColor": [74, 35, 90 ],
-		"innerColor": [118, 68, 138 ],
+		"innerColor": [253, 254, 254],
 		"favoredReligion": "Christianity",
-		"uniqueName": "For the Defense of The Monarch",
+		"uniqueName": "Fertile Lands",
 		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["The Great Hive"],
+		"cities": ["Verdua"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
