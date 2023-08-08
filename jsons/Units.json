@@ -33,6 +33,7 @@
   		"name": "Observers",
 		"unitType": "Bomber",
 		"movement": 1,
+		"uniqueTo": "Great Surdov",
 		"strength": 35,
 		"rangedStrength": 65,
 		"range": 10,
