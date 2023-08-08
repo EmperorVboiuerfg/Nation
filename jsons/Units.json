@@ -4,13 +4,8 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Great Surdov",
 		"movement": 2,
-		"uniques": [
-			"May enter foreign tiles without open borders",
-			"Can undertake a trade mission with City-State, giving a large sum of gold and [180] Influence",
-			"Great Person - [Gold]",
-			"Unbuildable",
-			"Uncapturable"]
-		],
+		"uniques": [ "May enter foreign tiles without open borders","Can undertake a trade mission with City-State, giving a large sum of gold and [180] Influence","Great Person - [Gold]","Unbuildable","Uncapturable"],
+	},
 	{
 		"name": "King's Guards",
 		"unitType": "Sword",
