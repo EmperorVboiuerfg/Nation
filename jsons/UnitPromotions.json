@@ -1,6 +1,6 @@
 [
   {
-		"name": "[Hivemind] ability",
+		"name": "[Guard] ability",
 		"uniques": ["[+33]% Strength <when fighting in <in Friendly Land tiles>","+10 HP when healing <in Friendly Land tiles>","Heals [25] damage if it kills a unit"]
     	}
 
