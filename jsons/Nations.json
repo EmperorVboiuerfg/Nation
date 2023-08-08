@@ -8,31 +8,31 @@
 
 	{
 		//nations
-		"name": "Verdua",
-		"leaderName": "High Chancellor",
-		"adjective": ["Verduin"],
+		"name": "Great Surdov",
+		"leaderName": "The Great One",
+		"adjective": ["Surdovian"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Diplomacy",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Your aggressive actions will not be forgiven.",
-		"attacked": "I, leader of Verdua am tasked with the defense of our people. I will not shy away from such responsibilities.",
+		"declaringWar": "Your aggressive actions will not be forgiven, we will ensure you suffer as a result of your foolish acts against us and our allies.",
+		"attacked": "Our walls are impregnable, our people's wills are strong. Surdov will rise whilst you fall under our blows",
 		"defeated": "Shame.",
-		"introduction": "Greetings stranger, this is Verdua, a haven for the tired, the poor and the hungry.",
+		"introduction": "Bow and pay your require tribute, and we may grant you mercy.",
 
 		"neutralHello": "Greetings",
-		"hateHello": "You insult our people by standing in our embassy, what do you want?",
+		"hateHello": "You insult our people by standing in MY palace, what do you want?",
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
 		"outerColor": [74, 35, 90 ],
 		"innerColor": [253, 254, 254],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Fertile Lands",
+		"uniqueName": "Blessed By The Gods",
 		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Verdua"],
+		"cities": ["Surdov"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
