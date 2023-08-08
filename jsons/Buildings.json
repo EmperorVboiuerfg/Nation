@@ -1,17 +1,17 @@
 [
 	{
-		"name": "The Hivemind",
+		"name": "The Processor",
 		"cost": 0,
-		"food": 7,
+		"food": 125,
 		"production": 10,
 		"cityStrength": 35,
 		"isNationalWonder": true,
-		"percentStatBonus": {"food": 50},
+		"percentStatBonus": {"food": 150},
 		"uniques": ["Requires a [Breeding Chambers] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
-		"uniqueTo": "The Hive",
+		"uniqueTo": "Great Surdov",
 	},
 	{
-		"name": "Breeding Chambers",
+		"name": "Fortified Granaries",
 		"food": 5,
 		"maintenance": 10,
 		"hurryCostModifier": 50,
@@ -20,16 +20,16 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-    "uniqueTo": "The Hive",
+    "uniqueTo": "Great Surdov",
 	},
 	{
-		"name": "Defensive Nodes",
+		"name": "Defensive Strucutres",
 		"production": 3,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
 		"cityHealth": 60,
 		"cityStrength": 30,
-		"requiredTech": "Plastics",
-		"uniqueTo": "The Hive",
+		"requiredTech": "Metallurgy",
+		"uniqueTo": "Great Surdov",
 	}
 ]
