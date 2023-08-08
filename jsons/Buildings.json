@@ -7,7 +7,7 @@
 		"cityStrength": 35,
 		"isNationalWonder": true,
 		"percentStatBonus": {"food": 150},
-		"uniques": ["Requires a [Breeding Chambers] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
+		"uniques": ["Requires a [Fortified Granaries] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
 		"uniqueTo": "Great Surdov",
 	},
 	{
