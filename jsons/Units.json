@@ -1,10 +1,13 @@
 [
 	{
-               "name": "Great Diplomat",
-		"unitType": "Civilian",
+               "name": "Ungoliath",
+		"unitType": "Sword",
 		"uniqueTo": "Great Surdov",
-		"movement": 2,
-		"uniques": [ "May enter foreign tiles without open borders","Can undertake a trade mission with City-State, giving a large sum of gold and [180] Influence","Great Person - [Gold]","Unbuildable","Uncapturable"],
+		"movement": 6,
+		"strength": 2500,
+		"cost": 1,
+		"uniques": ["May enter foreign tiles without open borders"],
+		"attackSound": "bombing"
 	},
 	{
 		"name": "King's Guards",
