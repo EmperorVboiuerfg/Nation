@@ -9,7 +9,7 @@
 	{
 		//nations
 		"name": "Great Surdov",
-		"leaderName": "The Great One",
+		"leaderName": "The Ancient One",
 		"adjective": ["Surdovian"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Diplomacy",
@@ -27,11 +27,10 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [74, 35, 90 ],
+		"outerColor": [0, 151, 255],
 		"innerColor": [253, 254, 254],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Blessed By The Gods",
-		"uniques": ["[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"uniqueName": "Followers of the Ancient One",
+		"uniques": ["[+5000]% Culture cost of natural border growth [in all cities]", "[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Surdov"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
