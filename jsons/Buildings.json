@@ -2,7 +2,7 @@
 	{
 		"name": "The Surudofu State",
 		"cost": 0,
-		"food": 125,
+		"food": 25,
 		"production": 10,
 		"cityStrength": 35,
 		"science": 15,
