@@ -1,17 +1,18 @@
 [
 	{
-		"name": "The Processor",
+		"name": "The Surudofu State",
 		"cost": 0,
 		"food": 125,
 		"production": 10,
 		"cityStrength": 35,
+		"science": 15,
 		"isNationalWonder": true,
 		"percentStatBonus": {"food": 150},
-		"uniques": ["Requires a [Fortified Granaries] in all cities", "[+150]% growth [in this city]", "Cost increases by [1000] per owned city"],
-		"uniqueTo": "Great Surdov",
+		"uniques": ["[+50]% growth [in this city]"],
+		"uniqueTo": "Surudofu",
 	},
 	{
-		"name": "Fortified Granaries",
+		"name": "Togo nojo",
 		"food": 5,
 		"maintenance": 10,
 		"hurryCostModifier": 50,
@@ -20,16 +21,16 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
-    "uniqueTo": "Great Surdov",
+    "uniqueTo": "Surudofu",
 	},
 	{
-		"name": "Defensive Strucutres",
+		"name": "Zensho kichi",
 		"production": 3,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
 		"cityHealth": 60,
 		"cityStrength": 30,
 		"requiredTech": "Metallurgy",
-		"uniqueTo": "Great Surdov",
+		"uniqueTo": "Surudofu",
 	}
 ]
