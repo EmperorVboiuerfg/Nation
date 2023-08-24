@@ -1,8 +1,8 @@
 [
 	{
-               "name": "Ungoliath",
+               "name": "Angorianto",
 		"unitType": "Sword",
-		"uniqueTo": "Great Surdov",
+		"uniqueTo": "Surudofu",
 		"movement": 6,
 		"strength": 2500,
 		"cost": 1,
@@ -10,16 +10,16 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "King's Guards",
+		"name": "Eihei",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Great Surdov",
+		"uniqueTo": "Surudofu",
 		"movement": 2,
-		"strength": 34,
+		"strength": 40,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
 		"promotions": ["[Guard] ability"],
-		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+55]% Strength <after discovering [Rifling]>"],
+		"uniques": ["[+50]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+55]% Strength <after discovering [Rifling]>"],
 		"attackSound": "metalhit"
 	       },
 	{
@@ -33,31 +33,31 @@
 		"attackSound": "metalhit"
 	},
 	{
-  		"name": "Observers",
+  		"name": "Kansatsu",
 		"unitType": "Bomber",
 		"movement": 1,
-		"uniqueTo": "Great Surdov",
-		"strength": 35,
-		"rangedStrength": 65,
-		"range": 10,
+		"uniqueTo": "Surudofu",
+		"strength": 50,
+		"rangedStrength": 120,
+		"range": 4,
 		"cost": 375,
-		"requiredTech": "Steam Power",
-		"requiredResource": "Coal",
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
 		"attackSound": "bombing"
 		},
 	{
-               "name": "Dreadnought",
+               "name": "Ocean Palace",
 		"unitType": "Ranged Water",
-		"uniqueTo": "Great Surdov",
-		"replaces": "Frigate",
-		"movement": 3,
-		"strength": 35,
-		"rangedStrength": 45,
-		"range": 4,
+		"uniqueTo": "Surudofu",
+		"replaces": "Battleship",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 105,
+		"range": 5,
 		"cost": 70,
 		"requiredTech": "Navigation",
 		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "bombing"
 		},
 			
 ]
