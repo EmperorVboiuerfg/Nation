@@ -8,7 +8,7 @@
 
 	{
 		//nations
-		"name": "Great Surdov",
+		"name": "Surdov",
 		"leaderName": "The Ancient One",
 		"adjective": ["Surdovian"],
 		"startBias": ["River"],
@@ -27,8 +27,8 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [0, 151, 255],
-		"innerColor": [253, 254, 254],
+		"outerColor": [255, 205, 0],
+		"innerColor": [192, 12, 9],
 		"uniqueName": "Followers of the Ancient One",
 		"uniques": ["[+99999]% Culture cost of natural border growth [in all cities]", "[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Surdov"],
