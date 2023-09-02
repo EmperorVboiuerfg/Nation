@@ -8,30 +8,30 @@
 
 	{
 		//nations
-		"name": "Surudofu",
-		"leaderName": "Enshento wan",
-		"adjective": ["Surudofuan"],
+		"name": "Septentrion",
+		"leaderName": "The Immortal",
+		"adjective": ["Septrionians"],
 		"startBias": ["River"],
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Your aggressive actions will not be forgiven, we will ensure you suffer as a result of your foolish acts against us and our allies.",
-		"attacked": "Our walls are impregnable, our people's wills are strong. Surdov will rise whilst you fall under our blows",
+		"declaringWar": "The North does not forget, nor forgive.",
+		"attacked": "The North does not forget, nor forgive. ",
 		"defeated": "Shame.",
-		"introduction": "Bow and pay your require tribute, and we may grant you mercy.",
+		"introduction": "We are the rightful rulers of the North, leave us to our own instruments and we shall too.",
 
-		"neutralHello": "Greetings",
+		"neutralHello": "What do you want",
 		"hateHello": "You insult our people by standing in MY palace, what do you want?",
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
 		"outerColor": [255, 205, 0],
 		"innerColor": [192, 12, 9],
-		"uniqueName": "Followers of the Ancient One",
-		"uniques": ["[+99999]% Culture cost of natural border growth [in all cities]", "[+200]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Surdov"],
+		"uniqueName": "Principes Aquilonis",
+		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+50]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Septentrion"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
