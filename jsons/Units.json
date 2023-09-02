@@ -1,21 +1,21 @@
 [
 	{
-               "name": "Angorianto",
+               "name": "Malum",
 		"unitType": "Sword",
-		"uniqueTo": "Surudofu",
-		"movement": 6,
+		"uniqueTo": "Septentrion",
+		"movement": 12,
 		"strength": 2500,
-		"cost": 1,
-		"uniques": ["May enter foreign tiles without open borders"],
+		"cost": 250,
+		"uniques": ["May enter foreign tiles without open borders","Unbuildable", "Can be purchased with [Faith] [in all cities]"],
 		"attackSound": "bombing"
 	},
 	{
-		"name": "Eihei",
+		"name": "War Constructs",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Surudofu",
+		"uniqueTo": "Septentrion",
 		"movement": 2,
-		"strength": 40,
+		"strength": 50,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
 		"promotions": ["[Guard] ability"],
@@ -32,32 +32,4 @@
 		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought","Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [City] units as [Gold]"],
 		"attackSound": "metalhit"
 	},
-	{
-  		"name": "Kansatsu",
-		"unitType": "Bomber",
-		"movement": 1,
-		"uniqueTo": "Surudofu",
-		"strength": 50,
-		"rangedStrength": 120,
-		"range": 4,
-		"cost": 375,
-		"requiredTech": "Flight",
-		"requiredResource": "Oil",
-		"attackSound": "bombing"
-		},
-	{
-               "name": "Ocean Palace",
-		"unitType": "Ranged Water",
-		"uniqueTo": "Surudofu",
-		"replaces": "Battleship",
-		"movement": 1,
-		"strength": 50,
-		"rangedStrength": 105,
-		"range": 5,
-		"cost": 70,
-		"requiredTech": "Navigation",
-		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"],
-		"attackSound": "bombing"
-		},
-			
 ]
