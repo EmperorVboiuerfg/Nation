@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Ruler of the North",
+		"name": "City State of The North",
 		"cost": 0,
 		"food": 25,
 		"production": 10,
@@ -8,7 +8,7 @@
 		"science": 15,
 		"isNationalWonder": true,
 		"uniques": ["[50]% Food is carried over after population increases [in all cities]"],
-		"uniqueTo": "Septentrion",
+		"uniqueTo": "Republic of Danzig",
 	},
 	{
 		"name": "Urban Farms",
@@ -20,16 +20,16 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Biology"
-    "uniqueTo": "Septentrion",
+    "uniqueTo": "Republic of Danzig",
 	},
 	{
-		"name": "The Immortal's Citadels",
+		"name": "The Citadels",
 		"production": 3,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
 		"cityHealth": 60,
 		"cityStrength": 30,
 		"requiredTech": "Metallurgy",
-		"uniqueTo": "Septentrion",
+		"uniqueTo": "Republic of Danzig",
 	}
 ]
