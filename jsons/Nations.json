@@ -27,11 +27,11 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [255, 205, 0],
-		"innerColor": [192, 12, 9],
-		"uniqueName": "City of the North",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		"uniqueName": "City State of The North",
 		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+50]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Septentrion"],
+		"cities": ["Danzig"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
