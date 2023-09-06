@@ -2,7 +2,7 @@
 	{
                "name": "Malum",
 		"unitType": "Sword",
-		"uniqueTo": "Septentrion",
+		"uniqueTo": "Republic of Danzig",
 		"movement": 12,
 		"strength": 2500,
 		"cost": 250,
@@ -10,10 +10,10 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "War Constructs",
+		"name": "Militzsoldaten",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Septentrion",
+		"uniqueTo": "Republic of Danzig",
 		"movement": 2,
 		"strength": 50,
 		"cost": 60,
