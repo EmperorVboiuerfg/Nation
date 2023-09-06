@@ -8,22 +8,22 @@
 
 	{
 		//nations
-		"name": "Septentrion",
-		"leaderName": "The Immortal",
-		"adjective": ["Septrionians"],
+		"name": "The Republic of Danzig",
+		"leaderName": "The Council",
+		"adjective": ["Danzigers"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The North does not forget, nor forgive.",
-		"attacked": "The North does not forget, nor forgive. ",
+		"declaringWar": ".",
+		"attacked": "Do not mistaken our size for weakness ",
 		"defeated": "Shame.",
-		"introduction": "We are the rightful rulers of the North, leave us to our own instruments and we shall too.",
+		"introduction": "Welcome to Danzig I guess",
 
 		"neutralHello": "What do you want",
-		"hateHello": "You insult our people by standing in MY palace, what do you want?",
+		"hateHello": "You insult our people by standing in our city, what do you want?",
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
