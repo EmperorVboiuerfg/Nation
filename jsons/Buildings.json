@@ -4,6 +4,7 @@
 		"cost": 0,
 		"food": 25,
 		"gold": 2000,
+		"faith": 500,
 		"production": 10,
 		"cityStrength": 35,
 		"science": 50,
