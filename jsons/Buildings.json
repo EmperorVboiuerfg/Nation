@@ -39,7 +39,7 @@
 		"gold": 3,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
-		"uniques":  "Provides [1] [Gold Ore]"],
+		"uniques":  "Provides [1] [Gold Ore]",
 		"cityHealth": 2,
 		"cityStrength": 5,
 		"replaces": "Bank",
