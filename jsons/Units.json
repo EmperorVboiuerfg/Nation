@@ -2,7 +2,7 @@
 	{
                "name": "Malum",
 		"unitType": "Sword",
-		"uniqueTo": "Republic of Danzig",
+		"uniqueTo": "Republic of Hochburg",
 		"movement": 12,
 		"strength": 2500,
 		"cost": 250,
@@ -10,16 +10,16 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "Militzsoldaten",
+		"name": "Hochburgian Border Wardens",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Republic of Danzig",
-		"movement": 2,
-		"strength": 50,
+		"uniqueTo": "Republic of Hochburg",
+		"movement": 1,
+		"strength": 60,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
-		"promotions": ["[Guard] ability"],
-		"uniques": ["[+50]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+55]% Strength <after discovering [Rifling]>"],
+		"promotions": ["[Frontier Watch] ability"],
+		"uniques": ["[+150]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+155]% Strength <after discovering [Rifling]>,", "[+3] Sight",],
 		"attackSound": "metalhit"
 	       },
 	{
