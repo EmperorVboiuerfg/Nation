@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Republic of Danzig",
+		"name": "Republic of Hochburg",
 		"leaderName": "The Council",
-		"adjective": ["Danzigers"],
+		"adjective": ["Hochburgians"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 
@@ -18,9 +18,9 @@
 		"startIntroPart2": "",
 
 		"declaringWar": ".",
-		"attacked": "Do not mistaken our size for weakness ",
+		"attacked": "Do not mistaken our size for weakness",
 		"defeated": "Shame.",
-		"introduction": "Welcome to Danzig I guess",
+		"introduction": "Welcome to Hochburg",
 
 		"neutralHello": "What do you want",
 		"hateHello": "You insult our people by standing in our city, what do you want?",
@@ -29,9 +29,9 @@
 
 		"outerColor": [0, 49, 83],
 		"innerColor": [250, 249, 246],
-		"uniqueName": "City State of The North",
+		"uniqueName": "The Fort of the Plains",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Danzig"],
+		"cities": ["Hochburg"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
