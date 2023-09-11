@@ -1,19 +1,18 @@
 [
 	{
-		"name": "City State of The North",
+		"name": "The Great Fort of the Plains",
 		"cost": 0,
-		"food": 25,
-		"gold": 2000,
+		"food": 10,
 		"faith": 500,
 		"production": 10,
 		"cityStrength": 35,
 		"science": 50,
 		"isNationalWonder": true,
 		"uniques": ["[50]% Food is carried over after population increases [in all cities]"],
-		"uniqueTo": "Republic of Danzig",
+		"uniqueTo": "Republic of Hochburg",
 	},
 	{
-		"name": "Urban Farms",
+		"name": "Terracotta Farms",
 		"food": 15,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
@@ -21,17 +20,29 @@
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Biology"
-    "uniqueTo": "Republic of Danzig",
+		"requiredTech": "Iron Working"
+    "uniqueTo": "Republic of Hochburg",
 	},
 	{
-		"name": "The Citadels",
+		"name": "Great Plains Fortifications",
 		"production": 30,
 		"maintenance": 15,
 		"hurryCostModifier": 50,
 		"cityHealth": 60,
 		"cityStrength": 30,
 		"requiredTech": "Metallurgy",
-		"uniqueTo": "Republic of Danzig",
+		"uniqueTo": "Republic of Hochburg",
+	},
+		{
+		"name": "Council of Hochburg",
+		"production": 3,
+		"gold": 3,
+		"maintenance": 15,
+		"hurryCostModifier": 50,
+		"uniques":  "Provides [1] [Gold Ore]"],
+		"cityHealth": 2,
+		"cityStrength": 5,
+		"replaces": "Bank",
+		"uniqueTo": "Republic of Hochburg",
 	}
 ]
