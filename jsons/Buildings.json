@@ -32,17 +32,5 @@
 		"cityStrength": 30,
 		"requiredTech": "Metallurgy",
 		"uniqueTo": "Republic of Hochburg",
-	},
-		{
-		"name": "Council of Hochburg",
-		"production": 3,
-		"gold": 3,
-		"maintenance": 15,
-		"hurryCostModifier": 50,
-		"uniques":  "Provides [1] [Gold Ore]",
-		"cityHealth": 2,
-		"cityStrength": 5,
-		"replaces": "Bank",
-		"uniqueTo": "Republic of Hochburg",
-	},
+	}
 ]
