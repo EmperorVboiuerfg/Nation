@@ -1,22 +1,11 @@
 [
 	{
-               "name": "Malum",
-		"unitType": "Sword",
-		"uniqueTo": "Republic of Hochburg",
-		"movement": 12,
-		"strength": 2500,
-		"cost": 250,
-		"uniques": ["May enter foreign tiles without open borders","Unbuildable", "Can be purchased with [Faith] [in all cities]","Earn [100000000]% of killed [Military] unit's [Strength] as [Gold]"],
-		"attackSound": "bombing"
-	},
-	{
 		"name": "Hochburgian Border Wardens",
 		"unitType": "Sword",
-		"replaces": "Spearman",
 		"uniqueTo": "Republic of Hochburg",
 		"movement": 1,
 		"strength": 60,
-		"cost": 60,
+		"cost": 10,
 		"requiredTech": "Bronze Working",
 		"promotions": ["[Frontier Watch] ability"],
 		"uniques": ["[+150]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+155]% Strength <after discovering [Rifling]>,", "[+3] Sight",],
