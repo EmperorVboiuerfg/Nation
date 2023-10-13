@@ -2,6 +2,7 @@
 	{
 		"name": "The Great Fort of the Plains",
 		"cost": 0,
+		"gold": 250,
 		"food": 10,
 		"faith": 500,
 		"production": 10,
@@ -14,6 +15,7 @@
 	{
 		"name": "Terracotta Farms",
 		"food": 15,
+		"cost": 0,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"cityStrength": 5,
@@ -23,14 +25,13 @@
 		"requiredTech": "Iron Working"
     "uniqueTo": "Republic of Hochburg",
 	},
-	{
-		"name": "Great Plains Fortifications",
-		"production": 30,
-		"maintenance": 15,
+		{
+		"name": "The Forge of Europe",
+		"production": 40,
+		"culture": 15
+		"maintenance": 1,
 		"hurryCostModifier": 50,
-		"cityHealth": 60,
-		"cityStrength": 30,
+		"cost": 0,
 		"requiredTech": "Metallurgy",
 		"uniqueTo": "Republic of Hochburg",
-	}
 ]
