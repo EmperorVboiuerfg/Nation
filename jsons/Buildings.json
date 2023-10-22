@@ -2,14 +2,14 @@
 	{
 		"name": "The Great Fort of the Plains",
 		"cost": 0,
-		"gold": 250,
+		"gold": 2500,
 		"food": 10,
 		"faith": 500,
 		"production": 10,
 		"cityStrength": 35,
 		"science": 50,
 		"isNationalWonder": true,
-		"uniques": ["[50]% Food is carried over after population increases [in all cities]", "New [All] units start with [99999999] Experience [in all cities]"],
+		"uniques": ["[10]% Food is carried over after population increases [in all cities]", "New [All] units start with [99999999] Experience [in all cities]"],
 		"uniqueTo": "Republic of Hochburg",
 	},
 	{
