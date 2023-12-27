@@ -1,15 +1,30 @@
 [
 	{
-		"name": "Hochburgian Border Wardens",
+		"name": "Umikaze Harbour Guards",
 		"unitType": "Sword",
-		"uniqueTo": "Republic of Hochburg",
+		"uniqueTo": "Umikaze",
 		"movement": 1,
-		"strength": 60,
+		"strength": 25,
 		"cost": 10,
-		"requiredTech": "Bronze Working",
+		"replaces": "Longswordsman",
+		"upgradesTo": "Umikaze Defence Force",
+		"requiredTech": "Steel",
 		"promotions": ["[Frontier Watch] ability"],
-		"uniques": ["[+150]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+155]% Strength <after discovering [Rifling]>,", "[+3] Sight",],
+		"uniques": ["[+150]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action", "[+3] Sight"],
 		"attackSound": "metalhit"
+	       },
+	{
+		"name": "Umikaze Defence Force",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Umikaze",
+		"movement": 1,
+		"strength": 90,
+		"cost": 10,
+		"replaces": "Marine",
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["[Frontier Watch] ability"],
+		"uniques": ["[+150]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action", "[+155]% Strength <after discovering [Rifling]>,", "[+3] Sight"],
+		"attackSound": "gunshot",
 	       },
 	{
 		"name": "Professional Mercenary",
@@ -18,7 +33,30 @@
 		"strength": 35,
 		"cost": 125,
 		"requiredTech": "Civil Service",
-		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought","Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [City] units as [Gold]"],
+		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought", "Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [City] units as [Gold]"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Pirate Junkship",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 25,
+		"cost": 125,
+		"requiredTech": "Navigation",
+		"replaces": "Privateer",
+		"upgradesTo": "Raidships"
+		"uniques": ["No movement cost to pillage","Can move immediately once bought","Earn [100]% of the damage done to [City] units as [Gold]", "May capture killed [Water] units"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Raidships",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 60,
+		"cost": 125,
+		"requiredTech": "Combustion",
+		"replaces": "Destroyer",
+		"uniques": ["No movement cost to pillage","Can move immediately once bought","Earn [100]% of the damage done to [City] units as [Gold]", "May capture killed [Water] units"],
 		"attackSound": "metalhit"
 	},
 ]
