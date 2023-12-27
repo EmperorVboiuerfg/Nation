@@ -30,7 +30,7 @@
 		"outerColor": [0, 49, 83],
 		"innerColor": [250, 249, 246],
 		"uniqueName": "The Great Harbour",
-		"uniques": ["[+99999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
 		"cities": ["Umikaze"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
