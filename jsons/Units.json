@@ -38,6 +38,7 @@
 	},
 	{
 		"name": "Pirate Junkship",
+		"uniqueTo": "Umikaze",
 		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 25,
@@ -50,6 +51,7 @@
 	},
 	{
 		"name": "Raidships",
+		"uniqueTo": "Umikaze",
 		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 60,
