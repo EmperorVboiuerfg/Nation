@@ -8,19 +8,19 @@
 
 	{
 		//nations
-		"name": "Republic of Hochburg",
-		"leaderName": "The Council",
-		"adjective": ["Hochburgians"],
-		"startBias": ["River"],
+		"name": "Umikaze",
+		"leaderName": "Hyogi-Kai",
+		"adjective": ["Umikazian"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
 		"declaringWar": ".",
-		"attacked": "Do not mistaken our size for weakness",
+		"attacked": " ",
 		"defeated": "Shame.",
-		"introduction": "Welcome to Hochburg",
+		"introduction": " ",
 
 		"neutralHello": "What do you want",
 		"hateHello": "You insult our people by standing in our city, what do you want?",
@@ -29,9 +29,9 @@
 
 		"outerColor": [0, 49, 83],
 		"innerColor": [250, 249, 246],
-		"uniqueName": "The Fort of the Plains",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Hochburg"],
+		"uniqueName": "The Great Harbour",
+		"uniques": ["[+99999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
+		"cities": ["Umikaze"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
