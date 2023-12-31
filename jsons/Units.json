@@ -15,7 +15,7 @@
 	       },
 	{
 		"name": "Umikaze Defence Force",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Umikaze",
 		"movement": 1,
 		"range": 1,
