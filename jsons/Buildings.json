@@ -7,7 +7,7 @@
 		"faith": 50,
 		"production": 15,
 		"cityStrength": 35,
-		"science": 15,
+		"science": 50,
 		"culture": 20,
 		"isNationalWonder": true,
 		"uniques": [
