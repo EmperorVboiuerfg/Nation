@@ -9,7 +9,7 @@
 	{
 		//nations
 		"name": "Tumaset",
-		"leaderName": "Ruling Council",
+		"leaderName": "Tumaset I",
 		"adjective": ["Tumasetian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
