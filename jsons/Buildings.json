@@ -7,12 +7,12 @@
 		"faith": 50,
 		"production": 15,
 		"cityStrength": 35,
-		"science": 50,
+		"science": 20,
 		"culture": 20,
 		"isNationalWonder": true,
 		"uniques": [
 			"New [All] units start with [99999999] Experience [in all cities]",
-		    	"Provides [10] [Horse]",
+		    	"Provides [10] [Horses]",
 			"Provides [15] [Coal]",
 			"Provides [15] [Oil]",
 			"Provides [15] [Iron]",
@@ -22,15 +22,15 @@
 		"uniqueTo": "Tumaset",
 	},
 	{
-		"name": "Canal Tariffs",
-		"gold": 50,
+		"name": "Tumaset's Observatory",
+		"science": 15,
 		"cost": 0,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"cityStrength": 5,
-		"uniques": ["[+3 Gold] from [Coast] tiles [in this city]",
-			"[+2 Gold] from [Ocean] tiles [in this city]",
-			"[+20]% Yield from every [City center],"]
+		"uniques": ["[+3 Gold] from [Mountain] tiles [in this city]",
+			"[+10 Science] from [Mountain] tiles [in this city]",
+			"[+100]% Yield from every [City center],"]
 		"requiredTech": "Iron Working"
     "uniqueTo": "Tumaset",
 	},
