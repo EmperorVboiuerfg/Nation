@@ -8,7 +8,7 @@
 		"cost": 10,
 		"replaces": "Swordsman",
 		"requiredTech": "Bronze Working",
-		"promotions": ["[Frontier Watch] ability", "[Mobility I] ability"],
+		"promotions": ["[Frontier Watch] ability"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"attackSound": "metalhit"
 	       },
