@@ -28,7 +28,7 @@
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
 		"outerColor": [205, 127, 50],
-		"innerColor": [180, 122, 28 ],
+		"innerColor": [191, 186, 40],
 		"uniqueName": "The Bronze Bastion of Tumaset",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
 		"cities": ["Tumaset"],
