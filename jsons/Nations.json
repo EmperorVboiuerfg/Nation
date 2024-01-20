@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Umikaze",
-		"leaderName": "Hyogi-Kai",
-		"adjective": ["Umikazian"],
+		"name": "Tumaset",
+		"leaderName": "Ruling Council",
+		"adjective": ["Tumasetian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
@@ -27,11 +27,11 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [0, 49, 83],
-		"innerColor": [250, 249, 246],
-		"uniqueName": "The Great Harbour",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
-		"cities": ["Umikaze"],
+		"outerColor": [205, 127, 50],
+		"innerColor": [180, 122, 28 ],
+		"uniqueName": "The Bronze Bastion of Tumaset",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
+		"cities": ["Tumaset"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
