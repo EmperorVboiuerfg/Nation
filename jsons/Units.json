@@ -46,7 +46,6 @@
 		"strength": 15,
 		"cost": 10,
 		"requiredTech": "Navigation",
-		"upgradesTo": "Raidships"
 		"uniques": ["Can move immediately once bought", "Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
 		"attackSound": "metalhit"
 	},
