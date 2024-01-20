@@ -1,15 +1,14 @@
 [
 	{
-		"name": "Tumaset Golem",
+		"name": "Tumaset Tribal Warriors",
 		"unitType": "Sword",
 		"uniqueTo": "Tumaset",
 		"movement": 1,
-		"strength": 25,
+		"strength": 15,
 		"cost": 10,
-		"replaces": "Longswordsman",
-		"upgradesTo": "Tumaset Automaton",
-		"requiredTech": "Steel",
-		"promotions": ["[Frontier Watch] ability"],
+		"replaces": "Swordsman",
+		"requiredTech": "Bronze Working",
+		"promotions": ["[Frontier Watch] ability", "[Mobility I] ability"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"attackSound": "metalhit"
 	       },
