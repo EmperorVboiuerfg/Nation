@@ -2,7 +2,7 @@
 	{
 		"name": "The Bronze Walls",
 		"cost": 0,
-		"gold": 250,
+		"gold": 20,
 		"food": 5,
 		"faith": 50,
 		"production": 15,
