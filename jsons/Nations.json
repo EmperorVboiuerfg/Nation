@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Tumaset",
-		"leaderName": "Tumaset I",
-		"adjective": ["Tumasetian"],
+		"name": "Herstellung",
+		"leaderName": "Herr",
+		"adjective": ["Herstellungian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
@@ -29,9 +29,9 @@
 
 		"outerColor": [205, 127, 50],
 		"innerColor": [191, 186, 40],
-		"uniqueName": "The Bronze Bastion of Tumaset",
+		"uniqueName": "Lord of Manufacture",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
-		"cities": ["Tumaset"],
+		"cities": ["Herstellung"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
