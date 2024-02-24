@@ -1,13 +1,13 @@
 [
 	{
-		"name": "The Bronze Walls",
+		"name": "The City of Steam",
 		"cost": 0,
 		"gold": 20,
-		"food": 5,
+		"food": 3,
 		"faith": 50,
-		"production": 15,
+		"production": 25,
 		"cityStrength": 35,
-		"science": 20,
+		"science": 5,
 		"culture": 20,
 		"isNationalWonder": true,
 		"uniques": [
@@ -19,19 +19,20 @@
 			"Provides [15] [Uranium]",
 			"Provides [15] [Aluminum]"
 		],
-		"uniqueTo": "Tumaset",
+		"uniqueTo": "Herstellung",
 	},
 	{
-		"name": "Tumaset's Observatory",
-		"science": 15,
+		"name": "Herstellung Manufacture",
+		"production": 6,
 		"cost": 0,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"cityStrength": 5,
-		"uniques": ["[+3 Gold] from [Mountain] tiles [in this city]",
-			"[+10 Science] from [Mountain] tiles [in this city]",
+		"specialistSlots": { "Engineer": 8 },
+		"replaces": "Factory",
+		"uniques": ["[+3 Production] from [Manufactory] tiles [in this city]",
 			"[+100]% Yield from every [City center],"]
 		"requiredTech": "Iron Working"
-    "uniqueTo": "Tumaset",
+    "uniqueTo": "Herstellung",
 	},
 ]
