@@ -8,7 +8,7 @@
 		"production": 25,
 		"cityStrength": 35,
 		"science": 15,
-		"culture": 20,
+		"culture": 35,
 		"isNationalWonder": true,
 		"uniques": [
 			"New [All] units start with [99999999] Experience [in all cities]",
