@@ -39,11 +39,10 @@
 	},
 	{
 		"name": "Merchantship",
-		"uniqueTo": "Tumaset",
 		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 15,
-		"cost": 10,
+		"cost": 150,
 		"requiredTech": "Navigation",
 		"uniques": ["Can move immediately once bought", "Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
 		"attackSound": "metalhit"
