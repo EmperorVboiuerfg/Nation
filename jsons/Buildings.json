@@ -7,7 +7,7 @@
 		"faith": 50,
 		"production": 25,
 		"cityStrength": 35,
-		"science": 5,
+		"science": 15,
 		"culture": 20,
 		"isNationalWonder": true,
 		"uniques": [
@@ -30,8 +30,9 @@
 		"cityStrength": 5,
 		"specialistSlots": { "Engineer": 8 },
 		"replaces": "Factory",
-		"uniques": ["[+3 Production] from [Manufactory] tiles [in this city]",
-			"[+100]% Yield from every [City center],"]
+		"uniques": ["[+8 Production] from [Manufactory] tiles [in this city]",
+			"[+100]% Yield from every [City center]",
+		"[+50]% Yield from every [Manufactory] tile]"],
 		"requiredTech": "Iron Working"
     "uniqueTo": "Herstellung",
 	},
