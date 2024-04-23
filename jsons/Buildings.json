@@ -33,6 +33,6 @@
 		"replaces": "Monument",
 		"uniques": ["[+300]% Yield from every [City center]"],
 		"requiredTech": "Iron Working"
-    "uniqueTo": "Herstellung",
+    "uniqueTo": "Alsaalihin",
 	},
 ]
