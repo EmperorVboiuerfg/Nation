@@ -30,7 +30,6 @@
 		"hurryCostModifier": 50,
 		"cityStrength": 15,
 		"specialistSlots": { "Artist": 8 },
-		"replaces": "Monument",
 		"uniques": ["[+300]% Yield from every [City center]"],
 		"requiredTech": "Iron Working"
     "uniqueTo": "Alsaalihin",
