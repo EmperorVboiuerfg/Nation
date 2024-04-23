@@ -26,8 +26,8 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [0, 194, 26],
-		"innerColor": [255, 255, 255],
+		"outerColor": [27, 144, 43],
+		"innerColor": [78, 189, 93 ],
 		"uniqueName": "Isolationist City",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [4] population [in all cities]"],
 		"cities": ["Alsaalihin"],
