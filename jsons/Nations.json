@@ -8,10 +8,9 @@
 
 	{
 		//nations
-		"name": "Herstellung",
-		"leaderName": "Herr",
-		"adjective": ["Herstellungian"],
-		"startBias": ["Coast"],
+		"name": "Alsaalihin",
+		"leaderName": "The King",
+		"adjective": ["Alsaalihinian"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
@@ -29,9 +28,9 @@
 
 		"outerColor": [46, 134, 193],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Lord of Manufacture",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Starts with [Commerce] adopted", "Cannot build [Settler] units"],
-		"cities": ["Herstellung"],
+		"uniqueName": "Isolationist City",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [4] population [in all cities]"],
+		"cities": ["Alsaalihin"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
