@@ -5,7 +5,7 @@
 		"gold": 20,
 		"food": 3,
 		"faith": 50,
-		"production": 5,
+		"production": 25,
 		"cityStrength": 35,
 		"science": 10,
 		"culture": 35,
@@ -24,7 +24,7 @@
 	{
 		"name": "Tower of Alsaalihin",
 		"production": 6,
-		"culture": 10,
+		"culture": 15,
 		"cost": 0,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
