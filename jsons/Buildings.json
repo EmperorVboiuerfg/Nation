@@ -1,6 +1,6 @@
 [
 	{
-		"name": "The Fort-City",
+		"name": "The Pearl City",
 		"cost": 0,
 		"gold": 20,
 		"food": 3,
@@ -19,10 +19,10 @@
 			"Provides [15] [Uranium]",
 			"Provides [15] [Aluminum]"
 		],
-		"uniqueTo": "Alsaalihin",
+		"uniqueTo": "Zhujiang",
 	},
 	{
-		"name": "Tower of Alsaalihin",
+		"name": "Zhujiang Harbour",
 		"production": 6,
 		"culture": 15,
 		"cost": 0,
@@ -32,6 +32,6 @@
 		"replaces": "Monument",
 		"specialistSlots": { "Artist": 8 },
 		"uniques": ["[+300]% Yield from every [City center]"],
-    "uniqueTo": "Alsaalihin",
+    "uniqueTo": "Zhujiang",
 	},
 ]
