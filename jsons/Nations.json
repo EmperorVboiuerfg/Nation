@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Alsaalihin",
-		"leaderName": "The King",
-		"adjective": ["Alsaalihinian"],
+		"name": "Zhujiang",
+		"leaderName": "Wu",
+		"adjective": ["Zhujiangnese"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
@@ -28,9 +28,9 @@
 
 		"outerColor": [27, 144, 43],
 		"innerColor": [78, 189, 93 ],
-		"uniqueName": "Isolationist City",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [4] population [in all cities]"],
-		"cities": ["Alsaalihin"],
+		"uniqueName": "River Republic",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [5] population [in all cities]"],
+		"cities": ["Zhujiang"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
