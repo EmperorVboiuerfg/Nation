@@ -6,7 +6,7 @@
 		"movement": 5,
 		"strength": 20,
 		"cost": 10,
-		"replaces": "Privateers",
+		"replaces": "Privateer",
 		"requiredTech": "Navigation",
 		"uniques": ["May capture killed [Water] units", "Earn [33]% of the damage done to [City] units as [Gold]"],
 	       },
