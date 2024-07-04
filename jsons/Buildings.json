@@ -31,13 +31,15 @@
 		"cityStrength": 15,
 		"replaces": "Monument",
 		"specialistSlots": { "Artist": 8 },
-		"uniques": ["[+300]% Yield from every [City center]"],
+		"uniques": ["[+50]% Yield from every [Fishing boat]"],
     "uniqueTo": "Zhujiang",
 	},
 	{
 		"name": "Seastilt Houses",
 		"food": 1,
 		"culture": 3,
+		"Uniques": "[10]% Food is carried over after population increases [in all cities]",
 		"specialistSlots": { "Merchant": 1 },
 		"uniqueTo": "Zhujiang",
+	},
 ]
