@@ -34,4 +34,10 @@
 		"uniques": ["[+300]% Yield from every [City center]"],
     "uniqueTo": "Zhujiang",
 	},
+	{
+		"name": "Seastilt Houses",
+		"food": 1,
+		"culture": 3,
+		"specialistSlots": { "Merchant": 1 },
+		"uniqueTo": "Zhujiang",
 ]
