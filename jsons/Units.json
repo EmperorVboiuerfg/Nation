@@ -1,19 +1,8 @@
 [
 	{
-		"name": "Sea Robbers",
-		"unitType": "Melee Water",
-		"uniqueTo": "Zhujiang",
-		"movement": 5,
-		"strength": 20,
-		"cost": 10,
-		"replaces": "Privateer",
-		"requiredTech": "Navigation",
-		"uniques": ["May capture killed [Water] units", "Earn [33]% of the damage done to [City] units as [Gold]"],
-	       },
-	{
-		"name": "Harpoonmen",
+		"name": "Barbed Spearmen",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Zhujiang",
+		"uniqueTo": "Shanzhong",
 		"movement": 3,
 		"range": 3,
 		"rangedStrength": 45,
