@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Zhujiang",
+		"name": "Shanzhong",
 		"leaderName": "Wu",
-		"adjective": ["Zhujiangnese"],
+		"adjective": ["Shanzhongren"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
@@ -28,9 +28,9 @@
 
 		"outerColor": [198, 20, 8],
 		"innerColor": [215, 225, 0],
-		"uniqueName": "River Republic",
+		"uniqueName": "Mountain Passage",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [5] population [in all cities]"],
-		"cities": ["Zhujiang"],
+		"cities": ["Shanzhong"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
