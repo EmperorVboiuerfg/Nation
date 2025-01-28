@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Barbed Spearmen",
+		"name": "Harpoon Wagon",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Shanzhong",
-		"movement": 3,
+		"uniqueTo": "Cicheng",
+		"movement": 2,
 		"range": 3,
 		"rangedStrength": 45,
-		"strength": 40,
+		"strength": 30,
 		"cost": 10,
 		"replaces": "Machine Gun",
 		"requiredTech": "Ballistics",
 		"promotions": ["[Harpoon] ability"],
-		"uniques": ["May withdraw before melee ([70]%)", "[+50]% Strength <after discovering [Combined Arms]>,", "[+1] Sight"],
+		"uniques": ["Must set up to ranged attack", "[+50]% Strength <after discovering [Combined Arms]>,", "[+1] Sight"],
 		"attackSound": "gunshot",
 	       },
 	{
