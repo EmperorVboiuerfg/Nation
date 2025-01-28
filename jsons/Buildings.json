@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Mountain Fortifications",
+		"name": "Porcelain Palace",
 		"cost": 0,
-		"gold": 20,
-		"food": 3,
+		"gold": 5,
+		"food": 2,
 		"faith": 50,
 		"production": 25,
 		"cityStrength": 35,
@@ -19,20 +19,19 @@
 			"Provides [15] [Uranium]",
 			"Provides [15] [Aluminum]"
 		],
-		"uniqueTo": "Shanzhong",
+		"uniqueTo": "Cicheng",
 	},
 	{
-		"name": "People of The Mountains",
-		"production": 6,
-		"culture": 15,
+		"name": "Glass Monument",
+		"culture": 4,
 		"cost": 0,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"cityStrength": 15,
 		"replaces": "Monument",
-		"specialistSlots": { "Artist": 8 },
-		"uniques": ["[+1 Food, +2 Production, +1 Culture] from every [Mountain]"],
-    "uniqueTo": "Shanzhong",
+		"specialistSlots": { "Artist": 5 },
+		"uniques": ["[+2 Happiness, +2 Science, +1 Culture] from every [Mountain]"],
+    "uniqueTo": "Cicheng",
 	},
 	{
 		"name": "Terrace Housing",
@@ -40,6 +39,6 @@
 		"culture": 3,
 		"Uniques": "[10]% Food is carried over after population increases [in all cities]",
 		"specialistSlots": { "Merchant": 1 },
-		"uniqueTo": "Shanzhong",
+		"uniqueTo": "Cicheng",
 	},
 ]
