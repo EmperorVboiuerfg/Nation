@@ -24,4 +24,14 @@
 		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought", "Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [City] units as [Gold]"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Slavers",
+		"unitType": "Mounted",
+		"uniqueTo": "Luun",
+		"movement": 5,
+		"strength": 25,
+		"cost": 125,
+		"uniques": ["No movement cost to pillage","[+50]% Strength <vs [Ranged] units>","Can move immediately once bought","Earn [100]% of the damage done to [City] units as [Gold]"],
+		"attackSound": "metalhit"
+	},
 ]
