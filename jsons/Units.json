@@ -30,7 +30,7 @@
 		"uniqueTo": "Luun",
 		"movement": 5,
 		"strength": 25,
-		"cost": 125,
+		"cost": 30,
 		"uniques": ["No movement cost to pillage","[+50]% Strength <vs [Ranged] units>","Can move immediately once bought","Earn [100]% of the damage done to [City] units as [Gold]"],
 		"attackSound": "metalhit"
 	},
