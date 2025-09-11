@@ -2,7 +2,7 @@
 	{
 		"name": "Harpoon Wagon",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Cicheng",
+		"uniqueTo": "Luun",
 		"movement": 2,
 		"range": 3,
 		"rangedStrength": 45,
