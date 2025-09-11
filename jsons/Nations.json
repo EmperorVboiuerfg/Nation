@@ -29,7 +29,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [192, 217, 226],
 		"uniqueName": "Porcelain City",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [5] population [in all cities]"],
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "Cannot build [Settler] units", "[+1 Gold, +3 Culture] per [5] population [in all cities]","Starts with [Theology]",]
 		"cities": ["Cicheng"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
