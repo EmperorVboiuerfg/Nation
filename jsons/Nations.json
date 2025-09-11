@@ -8,9 +8,9 @@
 
 	{
 		//nations
-		"name": "Cicheng",
-		"leaderName": "Wu",
-		"adjective": ["Cichengnian"],
+		"name": "Luun",
+		"leaderName": "Chieftain",
+		"adjective": ["Luunians"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
