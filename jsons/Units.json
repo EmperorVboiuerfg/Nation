@@ -2,7 +2,7 @@
 	{
 		"name": "Harpoon Wagon",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Luun",
+		"uniqueTo": "Cicheng",
 		"movement": 2,
 		"range": 3,
 		"rangedStrength": 45,
@@ -27,11 +27,11 @@
 	{
 		"name": "Slavers",
 		"unitType": "Mounted",
-		"uniqueTo": "Luun",
+		"uniqueTo": "Cicheng",
 		"movement": 5,
 		"strength": 25,
 		"cost": 30,
-		"uniques": ["No movement cost to pillage","[+50]% Strength <vs [Ranged] units>","Can move immediately once bought","Earn [100]% of the damage done to [City] units as [Gold]"],
+		"uniques": ["No movement cost to pillage","[+50]% Strength <vs [Ranged] units>","Can move immediately once bought","Earn [200]% of the damage done to [City] units as [Gold]"],
 		"attackSound": "metalhit"
 	},
 ]
