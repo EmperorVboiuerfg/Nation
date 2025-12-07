@@ -19,7 +19,7 @@
 			"Provides [15] [Uranium]",
 			"Provides [15] [Aluminum]"
 		],
-		"uniqueTo": "Luun",
+		"uniqueTo": "Cicheng",
 	},
 	{
 		"name": "Glass Monument",
@@ -31,7 +31,7 @@
 		"replaces": "Monument",
 		"specialistSlots": { "Artist": 5 },
 		"uniques": ["[+2 Happiness, +2 Science, +1 Culture] from every [Desert]"],
-    "uniqueTo": "Luun",
+    "uniqueTo": "Cicheng",
 	},
 	{
 		"name": "Terrace Housing",
@@ -39,6 +39,6 @@
 		"culture": 3,
 		"Uniques": "[40]% Food is carried over after population increases [in all cities]",
 		"specialistSlots": { "Merchant": 3 },
-		"uniqueTo": "Luun",
+		"uniqueTo": "Cicheng",
 	},
 ]
