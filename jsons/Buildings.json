@@ -30,7 +30,7 @@
 		"cityStrength": 15,
 		"replaces": "Monument",
 		"specialistSlots": { "Artist": 5 },
-		"uniques": ["[+2 Happiness, +2 Science, +1 Culture] from every [Desert]"],
+		"uniques": ["[+2 Happiness, +2 Science, +1 Culture] from every [Hill]"],
     "uniqueTo": "Cicheng",
 	},
 	{
