@@ -29,7 +29,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [192, 217, 226],
 		"uniqueName": "Porcelain City",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+1 Gold, +5 Culture, +5 Science] per [2] population [in all cities]","Starts with [Currency]", "[50]% growth [in all cities] <during a Golden Age>", "[100]% [Gold] [in all cities] <during a Golden Age>", "[100]% [Culture] [in all cities] <during a Golden Age>","[300]% [Science] [in all cities] <during a Golden Age>"]
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+1 Gold, +5 Culture, +2 Science] per [2] population [in all cities]","Starts with [Currency]", "[50]% growth [in all cities] <during a Golden Age>", "[100]% [Gold] [in all cities] <during a Golden Age>", "[100]% [Culture] [in all cities] <during a Golden Age>","[50]% [Science] [in all cities] <during a Golden Age>"]
 		"cities": ["Cicheng"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
